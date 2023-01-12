@@ -1,0 +1,9 @@
+#Ignore os arquivos com as extensões: 
+
+*.xlsx
+*.XLSX
+*.XLS
+*.xls
+*.xlsm
+*.csv
+*.accdb
